@@ -21,5 +21,8 @@
 **Databbase**
 - MongoDB, PostgresQL, MySQL
 
+**DevOps Tools**
+- Docker, Kubernetes, Ansible, Linux Administration
+
 **AI Frameworks**
 - Tensorflow
